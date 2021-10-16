@@ -1,9 +1,9 @@
 {
-  "name": "2019-20 Shen Varsity Hockey Roster",
-  "short_name": "Shen Hockey",
+  "name": "Oswego State Hockey",
+  "short_name": "Oswego State Hockey",
   "start_url": "/index.html",
   "background_color": "#CCCCCC",
-  "theme_color": "#CCCCCC",
+  "theme_color": "#02290e",
   "display": "standalone",
   "icons": [{
     "src": "maskable_icon.png",
