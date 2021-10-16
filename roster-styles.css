@@ -30,6 +30,7 @@ h2 {
 .row:first-child {
   background-color: #CCCCCC !important;
   font-weight: bold;
+  border: 1px solid #333333;
 }
 .row:nth-child(even){
   background-color: #E2EFD9;
