@@ -60,6 +60,7 @@ h2 {
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
+    background-color: black;
   }
   .jumbotron {
     background-color: black;
