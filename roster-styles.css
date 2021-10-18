@@ -11,10 +11,15 @@ body {
 }
 
 .container-table {
-  background-image: url('touch-icon-ipad.png');
+  background-image: url('main-background.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
+}
+
+.row {
+  background-color: var(--primary-color);
+  opacity: 0.75;
 }
 
 h2 {
@@ -66,10 +71,10 @@ h2 {
     background-color: black;
   }
 
-  .container-fluid {
-    background-color: var(--primary-color);
-    opacity: 0.9;
-  }
+  /*.container-fluid {*/
+  /*  background-color: var(--primary-color);*/
+  /*  opacity: 0.9;*/
+  /*}*/
 
   .row:first-child {
     background-color: #333333 !important;
