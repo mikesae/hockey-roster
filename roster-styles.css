@@ -1,10 +1,10 @@
-/*html {*/
-/*  text-size-adjust: 50%;*/
-/*}*/
+html {
+  text-size-adjust: 50%;
+}
 
 body {
   background-color: #DDDDDD;
-  font-size: 2.5em;
+  font-size: 4em;
   -webkit-user-select: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
@@ -19,6 +19,7 @@ body {
 
 .row {
   background-color: var(--primary-color);
+  /*border: 1px solid var(--primary-color);*/
   opacity: 0.75;
 }
 
