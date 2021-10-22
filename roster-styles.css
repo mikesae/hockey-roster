@@ -1,6 +1,6 @@
-/*html {*/
-/*  text-size-adjust: 25%;*/
-/*}*/
+html {
+  text-size-adjust: auto;
+}
 
 body {
   background-color: #DDDDDD;
@@ -19,7 +19,6 @@ body {
 
 .row {
   background-color: var(--primary-color);
-  /*border: 1px solid var(--primary-color);*/
   opacity: 0.75;
 }
 
