@@ -1,10 +1,11 @@
 html {
-  text-size-adjust: auto;
+  -webkit-text-size-adjust: 60%;
+  text-size-adjust: 60%;
 }
 
 body {
   background-color: #DDDDDD;
-  font-size: 5em;
+  font-size: 3em;
   -webkit-user-select: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
