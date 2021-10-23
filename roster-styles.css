@@ -1,6 +1,6 @@
 html {
-  text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  text-size-adjust: auto;
+  -webkit-text-size-adjust: auto;
 }
 
 body {
